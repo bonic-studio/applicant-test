@@ -1,0 +1,17 @@
+{
+    "name": "bonic-studio/applicant-test",
+    "description": "Applicant competency tests",
+    "minimum-stability": "stable",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Lajos Bencz",
+            "email": "lajos.bencz@bonic.hu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BonicApplicantTest\\": "src/"
+        }
+    }
+}
